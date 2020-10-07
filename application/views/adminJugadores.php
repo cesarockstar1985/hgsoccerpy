@@ -22,7 +22,6 @@
 			<table class="table table-dark">
 			  <thead>
 			    <tr>
-				
 			      <th scope="col">#</th>
 			      <th scope="col">Nombre</th>
 			      <th scope="col">Apellido</th>
