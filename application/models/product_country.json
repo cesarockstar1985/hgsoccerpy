@@ -1,0 +1,1500 @@
+[
+  {
+    "idpais": "2",
+    "code": "1",
+    "name": "ALEMANIA",
+    "nombre2_pais_s": "ALEMANIA",
+    "inicial_pais_s": "DE"
+  },
+  {
+    "idpais": "3",
+    "code": "2",
+    "name": "ARGENTINA",
+    "nombre2_pais_s": "ARGENTINA",
+    "inicial_pais_s": "AR"
+  },
+  {
+    "idpais": "4",
+    "code": "3",
+    "name": "AUSTRALIA",
+    "nombre2_pais_s": "AUSTRALIA",
+    "inicial_pais_s": "AU"
+  },
+  {
+    "idpais": "5",
+    "code": "4",
+    "name": "AUSTRIA",
+    "nombre2_pais_s": "AUSTRIA",
+    "inicial_pais_s": "AT"
+  },
+  {
+    "idpais": "6",
+    "code": "5",
+    "name": "BELGICA",
+    "nombre2_pais_s": "BELGICA",
+    "inicial_pais_s": "BE"
+  },
+  {
+    "idpais": "7",
+    "code": "6",
+    "name": "BOLIVIA",
+    "nombre2_pais_s": "BOLIVIA",
+    "inicial_pais_s": "BO"
+  },
+  {
+    "idpais": "8",
+    "code": "7",
+    "name": "BRASIL",
+    "nombre2_pais_s": "BRASIL",
+    "inicial_pais_s": "BR"
+  },
+  {
+    "idpais": "9",
+    "code": "8",
+    "name": "BULGARIA",
+    "nombre2_pais_s": "BULGARIA",
+    "inicial_pais_s": "BG"
+  },
+  {
+    "idpais": "10",
+    "code": "9",
+    "name": "CANADA",
+    "nombre2_pais_s": "CANADA",
+    "inicial_pais_s": "CA"
+  },
+  {
+    "idpais": "11",
+    "code": "10",
+    "name": "CHILE",
+    "nombre2_pais_s": "CHILE",
+    "inicial_pais_s": "CL"
+  },
+  {
+    "idpais": "12",
+    "code": "11",
+    "name": "CHINA",
+    "nombre2_pais_s": "CHINA",
+    "inicial_pais_s": "CN"
+  },
+  {
+    "idpais": "13",
+    "code": "12",
+    "name": "COLOMBIA",
+    "nombre2_pais_s": "COLOMBIA",
+    "inicial_pais_s": "CO"
+  },
+  {
+    "idpais": "14",
+    "code": "13",
+    "name": "COREA DEL NORTE",
+    "nombre2_pais_s": "COREA DEL NORTE",
+    "inicial_pais_s": "KP"
+  },
+  {
+    "idpais": "15",
+    "code": "14",
+    "name": "COREA DEL SUR",
+    "nombre2_pais_s": "COREA DEL SUR",
+    "inicial_pais_s": "KR"
+  },
+  {
+    "idpais": "16",
+    "code": "15",
+    "name": "CROACIA",
+    "nombre2_pais_s": "CROACIA",
+    "inicial_pais_s": "HR"
+  },
+  {
+    "idpais": "17",
+    "code": "16",
+    "name": "CUBA",
+    "nombre2_pais_s": "CUBA",
+    "inicial_pais_s": "CU"
+  },
+  {
+    "idpais": "18",
+    "code": "17",
+    "name": "DINAMARCA",
+    "nombre2_pais_s": "DINAMARCA",
+    "inicial_pais_s": "DK"
+  },
+  {
+    "idpais": "19",
+    "code": "18",
+    "name": "ECUADOR",
+    "nombre2_pais_s": "ECUADOR",
+    "inicial_pais_s": "EC"
+  },
+  {
+    "idpais": "20",
+    "code": "19",
+    "name": "EGIPTO",
+    "nombre2_pais_s": "EGIPTO",
+    "inicial_pais_s": "EG"
+  },
+  {
+    "idpais": "21",
+    "code": "20",
+    "name": "ESLOVAQUIA",
+    "nombre2_pais_s": "ESLOVAQUIA",
+    "inicial_pais_s": "SK"
+  },
+  {
+    "idpais": "22",
+    "code": "21",
+    "name": "ESPAÑA",
+    "nombre2_pais_s": "ESPAÑA",
+    "inicial_pais_s": "ES"
+  },
+  {
+    "idpais": "23",
+    "code": "22",
+    "name": "ESTONIA",
+    "nombre2_pais_s": "ESTONIA",
+    "inicial_pais_s": "EE"
+  },
+  {
+    "idpais": "25",
+    "code": "24",
+    "name": "GHANA",
+    "nombre2_pais_s": "GHANA",
+    "inicial_pais_s": "GH"
+  },
+  {
+    "idpais": "26",
+    "code": "25",
+    "name": "GRECIA",
+    "nombre2_pais_s": "GRECIA",
+    "inicial_pais_s": "EL"
+  },
+  {
+    "idpais": "27",
+    "code": "26",
+    "name": "GUATEMALA",
+    "nombre2_pais_s": "GUATEMALA",
+    "inicial_pais_s": "GT"
+  },
+  {
+    "idpais": "28",
+    "code": "27",
+    "name": "HOLANDA",
+    "nombre2_pais_s": "HOLANDA",
+    "inicial_pais_s": "NL"
+  },
+  {
+    "idpais": "29",
+    "code": "28",
+    "name": "HUNGRIA",
+    "nombre2_pais_s": "HUNGRIA",
+    "inicial_pais_s": "HU"
+  },
+  {
+    "idpais": "30",
+    "code": "29",
+    "name": "INDIA",
+    "nombre2_pais_s": "INDIA",
+    "inicial_pais_s": "IN"
+  },
+  {
+    "idpais": "31",
+    "code": "30",
+    "name": "INDONESIA",
+    "nombre2_pais_s": "INDONESIA",
+    "inicial_pais_s": "ID"
+  },
+  {
+    "idpais": "32",
+    "code": "31",
+    "name": "INGLATERRA",
+    "nombre2_pais_s": "",
+    "inicial_pais_s": "\r"
+  },
+  {
+    "idpais": "33",
+    "code": "32",
+    "name": "ISRAEL",
+    "nombre2_pais_s": "ISRAEL",
+    "inicial_pais_s": "IL"
+  },
+  {
+    "idpais": "35",
+    "code": "34",
+    "name": "ITALIA",
+    "nombre2_pais_s": "ITALIA",
+    "inicial_pais_s": "IT"
+  },
+  {
+    "idpais": "36",
+    "code": "35",
+    "name": "JAPON",
+    "nombre2_pais_s": "JAPON",
+    "inicial_pais_s": "JP"
+  },
+  {
+    "idpais": "37",
+    "code": "36",
+    "name": "LIBANO",
+    "nombre2_pais_s": "LIBANO",
+    "inicial_pais_s": "LB"
+  },
+  {
+    "idpais": "38",
+    "code": "37",
+    "name": "MALASIA",
+    "nombre2_pais_s": "MALASIA",
+    "inicial_pais_s": "MY"
+  },
+  {
+    "idpais": "39",
+    "code": "38",
+    "name": "MEXICO",
+    "nombre2_pais_s": "MEXICO",
+    "inicial_pais_s": "MX"
+  },
+  {
+    "idpais": "40",
+    "code": "39",
+    "name": "NORUEGA",
+    "nombre2_pais_s": "NORUEGA",
+    "inicial_pais_s": "NO"
+  },
+  {
+    "idpais": "41",
+    "code": "40",
+    "name": "NUEVA ZELANDA",
+    "nombre2_pais_s": "NUEVA ZELANDA",
+    "inicial_pais_s": "NZ"
+  },
+  {
+    "idpais": "42",
+    "code": "41",
+    "name": "PAKISTAN",
+    "nombre2_pais_s": "PAKISTAN",
+    "inicial_pais_s": "PK"
+  },
+  {
+    "idpais": "43",
+    "code": "42",
+    "name": "PANAMA",
+    "nombre2_pais_s": "PANAMA",
+    "inicial_pais_s": "PA"
+  },
+  {
+    "idpais": "44",
+    "code": "43",
+    "name": "PARAGUAY",
+    "nombre2_pais_s": "PARAGUAY",
+    "inicial_pais_s": "PY"
+  },
+  {
+    "idpais": "45",
+    "code": "44",
+    "name": "PERU",
+    "nombre2_pais_s": "PERU",
+    "inicial_pais_s": "PE"
+  },
+  {
+    "idpais": "46",
+    "code": "45",
+    "name": "POLONIA",
+    "nombre2_pais_s": "POLONIA",
+    "inicial_pais_s": "PL"
+  },
+  {
+    "idpais": "47",
+    "code": "46",
+    "name": "PUERTO RICO",
+    "nombre2_pais_s": "PUERTO RICO",
+    "inicial_pais_s": "PR"
+  },
+  {
+    "idpais": "48",
+    "code": "47",
+    "name": "REINO UNIDO",
+    "nombre2_pais_s": "REINO UNIDO",
+    "inicial_pais_s": "GB"
+  },
+  {
+    "idpais": "49",
+    "code": "48",
+    "name": "REP.POP.CHINA",
+    "nombre2_pais_s": "REP.POP.CHINA",
+    "inicial_pais_s": "\r"
+  },
+  {
+    "idpais": "50",
+    "code": "49",
+    "name": "RUSIA",
+    "nombre2_pais_s": "RUSIA",
+    "inicial_pais_s": "RU"
+  },
+  {
+    "idpais": "51",
+    "code": "50",
+    "name": "SINGAPUR",
+    "nombre2_pais_s": "SINGAPUR",
+    "inicial_pais_s": "SG"
+  },
+  {
+    "idpais": "52",
+    "code": "51",
+    "name": "SIRIA",
+    "nombre2_pais_s": "SIRIA",
+    "inicial_pais_s": "SY"
+  },
+  {
+    "idpais": "53",
+    "code": "52",
+    "name": "SRI LANKA",
+    "nombre2_pais_s": "SRI LANKA",
+    "inicial_pais_s": "LK"
+  },
+  {
+    "idpais": "54",
+    "code": "53",
+    "name": "SUDAFRICA",
+    "nombre2_pais_s": "SUDAFRICA",
+    "inicial_pais_s": "ZA"
+  },
+  {
+    "idpais": "55",
+    "code": "54",
+    "name": "SUIZA",
+    "nombre2_pais_s": "SUIZA",
+    "inicial_pais_s": "CH"
+  },
+  {
+    "idpais": "56",
+    "code": "55",
+    "name": "TAIWAN",
+    "nombre2_pais_s": "TAIWAN",
+    "inicial_pais_s": "TW"
+  },
+  {
+    "idpais": "57",
+    "code": "56",
+    "name": "TANZANIA",
+    "nombre2_pais_s": "TANZANIA",
+    "inicial_pais_s": "TZ"
+  },
+  {
+    "idpais": "58",
+    "code": "57",
+    "name": "TAILANDIA",
+    "nombre2_pais_s": "TAILANDIA",
+    "inicial_pais_s": "TH"
+  },
+  {
+    "idpais": "59",
+    "code": "58",
+    "name": "TURQUIA",
+    "nombre2_pais_s": "TURQUIA",
+    "inicial_pais_s": "TR"
+  },
+  {
+    "idpais": "60",
+    "code": "59",
+    "name": "URUGUAY",
+    "nombre2_pais_s": "URUGUAY",
+    "inicial_pais_s": "UY"
+  },
+  {
+    "idpais": "61",
+    "code": "60",
+    "name": "ESTADOS UNIDOS",
+    "nombre2_pais_s": "ESTADOS UNIDOS",
+    "inicial_pais_s": "US"
+  },
+  {
+    "idpais": "62",
+    "code": "61",
+    "name": "VENEZUELA",
+    "nombre2_pais_s": "VENEZUELA",
+    "inicial_pais_s": "VE"
+  },
+  {
+    "idpais": "63",
+    "code": "62",
+    "name": "VIETNAM",
+    "nombre2_pais_s": "VIETNAM",
+    "inicial_pais_s": "VN"
+  },
+  {
+    "idpais": "64",
+    "code": "63",
+    "name": "ZIMBAWE",
+    "nombre2_pais_s": "ZIMBABWE",
+    "inicial_pais_s": "ZW"
+  },
+  {
+    "idpais": "65",
+    "code": "64",
+    "name": "FILIPINAS",
+    "nombre2_pais_s": "FILIPINAS",
+    "inicial_pais_s": "PH"
+  },
+  {
+    "idpais": "69",
+    "code": "81",
+    "name": "ALBANIA",
+    "nombre2_pais_s": "ALBANIA",
+    "inicial_pais_s": "AL"
+  },
+  {
+    "idpais": "70",
+    "code": "82",
+    "name": "ANTILLAS",
+    "nombre2_pais_s": "ANTILLAS",
+    "inicial_pais_s": "AN"
+  },
+  {
+    "idpais": "71",
+    "code": "83",
+    "name": "ARABIA SAUDITA",
+    "nombre2_pais_s": "ARABIA SAUDITA",
+    "inicial_pais_s": "SA"
+  },
+  {
+    "idpais": "72",
+    "code": "84",
+    "name": "ARUBA",
+    "nombre2_pais_s": "ARUBA",
+    "inicial_pais_s": "AW"
+  },
+  {
+    "idpais": "73",
+    "code": "85",
+    "name": "CHIPRE",
+    "nombre2_pais_s": "CHIPRE",
+    "inicial_pais_s": "CY"
+  },
+  {
+    "idpais": "74",
+    "code": "86",
+    "name": "COSTA DE MARFIL",
+    "nombre2_pais_s": "COSTA DE MARFIL",
+    "inicial_pais_s": "CI"
+  },
+  {
+    "idpais": "75",
+    "code": "88",
+    "name": "EL SALVADOR",
+    "nombre2_pais_s": "EL SALVADOR",
+    "inicial_pais_s": "SV"
+  },
+  {
+    "idpais": "76",
+    "code": "89",
+    "name": "EMIRATOS ARABES",
+    "nombre2_pais_s": "EMIRATOS ARABES",
+    "inicial_pais_s": "AE"
+  },
+  {
+    "idpais": "77",
+    "code": "90",
+    "name": "IRAN",
+    "nombre2_pais_s": "IRAN",
+    "inicial_pais_s": "IR"
+  },
+  {
+    "idpais": "78",
+    "code": "92",
+    "name": "ISLAS CAIMAN",
+    "nombre2_pais_s": "ISLAS CAIMAN",
+    "inicial_pais_s": "KY"
+  },
+  {
+    "idpais": "79",
+    "code": "93",
+    "name": "ISLAS VIRGENES",
+    "nombre2_pais_s": "ISLAS VIRGENES (EUA)",
+    "inicial_pais_s": "VI"
+  },
+  {
+    "idpais": "80",
+    "code": "94",
+    "name": "ISLAS MAURITANIA",
+    "nombre2_pais_s": "ISLAS MAURITANIA",
+    "inicial_pais_s": "MR\r\n"
+  },
+  {
+    "idpais": "81",
+    "code": "95",
+    "name": "KENIA",
+    "nombre2_pais_s": "KENIA",
+    "inicial_pais_s": "KE"
+  },
+  {
+    "idpais": "82",
+    "code": "97",
+    "name": "LIBIA",
+    "nombre2_pais_s": "LIBIA",
+    "inicial_pais_s": "LY"
+  },
+  {
+    "idpais": "83",
+    "code": "98",
+    "name": "LITUANIA",
+    "nombre2_pais_s": "LITUANIA",
+    "inicial_pais_s": "LT"
+  },
+  {
+    "idpais": "232",
+    "code": null,
+    "name": "MALAWI",
+    "nombre2_pais_s": "MALAWI",
+    "inicial_pais_s": "MW"
+  },
+  {
+    "idpais": "85",
+    "code": "100",
+    "name": "MARRUECOS",
+    "nombre2_pais_s": "MARRUECOS",
+    "inicial_pais_s": "MA"
+  },
+  {
+    "idpais": "86",
+    "code": "101",
+    "name": "MOZAMBIQUE",
+    "nombre2_pais_s": "MOZAMBIQUE",
+    "inicial_pais_s": "MZ"
+  },
+  {
+    "idpais": "87",
+    "code": "102",
+    "name": "NIGERIA",
+    "nombre2_pais_s": "NIGERIA",
+    "inicial_pais_s": "NG"
+  },
+  {
+    "idpais": "88",
+    "code": "103",
+    "name": "PAISES BAJOS",
+    "nombre2_pais_s": "PAISES BAJOS",
+    "inicial_pais_s": "NL"
+  },
+  {
+    "idpais": "89",
+    "code": "104",
+    "name": "PORTUGAL",
+    "nombre2_pais_s": "PORTUGAL",
+    "inicial_pais_s": "PT"
+  },
+  {
+    "idpais": "90",
+    "code": "105",
+    "name": "REPUBLICA DOMINICANA",
+    "nombre2_pais_s": "REPUBLICA DOMINICANA",
+    "inicial_pais_s": "DO"
+  },
+  {
+    "idpais": "91",
+    "code": "108",
+    "name": "SUECIA",
+    "nombre2_pais_s": "SUECIA",
+    "inicial_pais_s": "SE"
+  },
+  {
+    "idpais": "92",
+    "code": "109",
+    "name": "TRINIDAD Y TOBAGO",
+    "nombre2_pais_s": "TRINIDAD Y TOBAGO",
+    "inicial_pais_s": "TT"
+  },
+  {
+    "idpais": "93",
+    "code": "110",
+    "name": "TUNEZ",
+    "nombre2_pais_s": "TUNEZ",
+    "inicial_pais_s": "TN"
+  },
+  {
+    "idpais": "94",
+    "code": "112",
+    "name": "YEMEN",
+    "nombre2_pais_s": "YEMEN",
+    "inicial_pais_s": "YE"
+  },
+  {
+    "idpais": "96",
+    "code": "114",
+    "name": "JORDAN",
+    "nombre2_pais_s": "JORDAN",
+    "inicial_pais_s": "JO"
+  },
+  {
+    "idpais": "97",
+    "code": "115",
+    "name": "ARGELIA",
+    "nombre2_pais_s": "ARGELIA",
+    "inicial_pais_s": "DZ"
+  },
+  {
+    "idpais": "229",
+    "code": null,
+    "name": "FINLANDIA",
+    "nombre2_pais_s": "FINLANDIA",
+    "inicial_pais_s": "FI"
+  },
+  {
+    "idpais": "99",
+    "code": "117",
+    "name": "JORDANIA",
+    "nombre2_pais_s": "JORDANIA",
+    "inicial_pais_s": "JO"
+  },
+  {
+    "idpais": "231",
+    "code": null,
+    "name": "CABO VERDE",
+    "nombre2_pais_s": "CABO VERDE",
+    "inicial_pais_s": "CV"
+  },
+  {
+    "idpais": "101",
+    "code": "120",
+    "name": "COREA",
+    "nombre2_pais_s": "",
+    "inicial_pais_s": "\r"
+  },
+  {
+    "idpais": "103",
+    "code": "122",
+    "name": "RUMANIA",
+    "nombre2_pais_s": "RUMANIA",
+    "inicial_pais_s": "RO"
+  },
+  {
+    "idpais": "104",
+    "code": "123",
+    "name": "UCRANIA",
+    "nombre2_pais_s": "UCRANIA",
+    "inicial_pais_s": "UA"
+  },
+  {
+    "idpais": "105",
+    "code": "125",
+    "name": "NIGER",
+    "nombre2_pais_s": "NIGER",
+    "inicial_pais_s": "NE"
+  },
+  {
+    "idpais": "106",
+    "code": "126",
+    "name": "MALI",
+    "nombre2_pais_s": "",
+    "inicial_pais_s": "\r"
+  },
+  {
+    "idpais": "107",
+    "code": "127",
+    "name": "SENEGAL",
+    "nombre2_pais_s": "SENEGAL",
+    "inicial_pais_s": "SN"
+  },
+  {
+    "idpais": "108",
+    "code": "128",
+    "name": "COSTA RICA",
+    "nombre2_pais_s": "COSTA RICA",
+    "inicial_pais_s": "CR"
+  },
+  {
+    "idpais": "111",
+    "code": "131",
+    "name": "REP. DE BIELORUSIA",
+    "nombre2_pais_s": "ANDORRA",
+    "inicial_pais_s": "AD"
+  },
+  {
+    "idpais": "112",
+    "code": "132",
+    "name": "ANGOLA",
+    "nombre2_pais_s": "ANGOLA",
+    "inicial_pais_s": "AO"
+  },
+  {
+    "idpais": "113",
+    "code": "133",
+    "name": "ANGUILLA",
+    "nombre2_pais_s": "ANGUILLA",
+    "inicial_pais_s": "AI"
+  },
+  {
+    "idpais": "114",
+    "code": "134",
+    "name": "ARMENIA",
+    "nombre2_pais_s": "ARMENIA",
+    "inicial_pais_s": "AM"
+  },
+  {
+    "idpais": "115",
+    "code": "135",
+    "name": "AZERBAIJAN",
+    "nombre2_pais_s": "AZERBAIJAN",
+    "inicial_pais_s": "AZ"
+  },
+  {
+    "idpais": "116",
+    "code": "136",
+    "name": "BAHAMAS",
+    "nombre2_pais_s": "BAHAMAS",
+    "inicial_pais_s": "BS"
+  },
+  {
+    "idpais": "117",
+    "code": "137",
+    "name": "BAHREIN",
+    "nombre2_pais_s": "BAHREIN",
+    "inicial_pais_s": "BH"
+  },
+  {
+    "idpais": "118",
+    "code": "138",
+    "name": "BANGLADESH",
+    "nombre2_pais_s": "BANGLADESH",
+    "inicial_pais_s": "BD"
+  },
+  {
+    "idpais": "119",
+    "code": "139",
+    "name": "BARBADOS",
+    "nombre2_pais_s": "BARBADOS",
+    "inicial_pais_s": "BB"
+  },
+  {
+    "idpais": "120",
+    "code": "140",
+    "name": "BELICE",
+    "nombre2_pais_s": "BELICE",
+    "inicial_pais_s": "BZ"
+  },
+  {
+    "idpais": "121",
+    "code": "141",
+    "name": "BENIN",
+    "nombre2_pais_s": "BENIN",
+    "inicial_pais_s": "BJ"
+  },
+  {
+    "idpais": "122",
+    "code": "142",
+    "name": "BERMUDAS",
+    "nombre2_pais_s": "BERMUDAS",
+    "inicial_pais_s": "BM"
+  },
+  {
+    "idpais": "123",
+    "code": "143",
+    "name": "BIELORRUSIA",
+    "nombre2_pais_s": "BIELORRUSIA",
+    "inicial_pais_s": "BY"
+  },
+  {
+    "idpais": "124",
+    "code": "144",
+    "name": "BOSNIA-HERZEGOVINA",
+    "nombre2_pais_s": "BOSNIA-HERZEGOVINA",
+    "inicial_pais_s": "BA"
+  },
+  {
+    "idpais": "125",
+    "code": "145",
+    "name": "BOSTWANA",
+    "nombre2_pais_s": "BOSTWANA",
+    "inicial_pais_s": "BW"
+  },
+  {
+    "idpais": "126",
+    "code": "146",
+    "name": "BRUNEI",
+    "nombre2_pais_s": "BRUNEI",
+    "inicial_pais_s": "BN"
+  },
+  {
+    "idpais": "127",
+    "code": "147",
+    "name": "BURKINA FASO",
+    "nombre2_pais_s": "BURKINA FASO",
+    "inicial_pais_s": "BF"
+  },
+  {
+    "idpais": "128",
+    "code": "148",
+    "name": "BURUNDI",
+    "nombre2_pais_s": "BURUNDI",
+    "inicial_pais_s": "BI"
+  },
+  {
+    "idpais": "129",
+    "code": "149",
+    "name": "CAMBOYA",
+    "nombre2_pais_s": "CAMBOYA",
+    "inicial_pais_s": "KH"
+  },
+  {
+    "idpais": "130",
+    "code": "150",
+    "name": "CAMERUN",
+    "nombre2_pais_s": "CAMERUN",
+    "inicial_pais_s": "CM"
+  },
+  {
+    "idpais": "131",
+    "code": "151",
+    "name": "CEUTA Y MELILLA",
+    "nombre2_pais_s": "CEUTA Y MELILLA",
+    "inicial_pais_s": "XC"
+  },
+  {
+    "idpais": "132",
+    "code": "152",
+    "name": "COMORAS",
+    "nombre2_pais_s": "COMORAS",
+    "inicial_pais_s": "KM"
+  },
+  {
+    "idpais": "133",
+    "code": "153",
+    "name": "CONGO",
+    "nombre2_pais_s": "CONGO",
+    "inicial_pais_s": "CG"
+  },
+  {
+    "idpais": "134",
+    "code": "154",
+    "name": "DJIBOUTI",
+    "nombre2_pais_s": "DJIBOUTI",
+    "inicial_pais_s": "DJ"
+  },
+  {
+    "idpais": "135",
+    "code": "155",
+    "name": "DOMINICA",
+    "nombre2_pais_s": "DOMINICA",
+    "inicial_pais_s": "DM"
+  },
+  {
+    "idpais": "136",
+    "code": "156",
+    "name": "ERITREA",
+    "nombre2_pais_s": "ERITREA",
+    "inicial_pais_s": "ER"
+  },
+  {
+    "idpais": "137",
+    "code": "157",
+    "name": "ESLOVENIA",
+    "nombre2_pais_s": "ESLOVENIA",
+    "inicial_pais_s": "SI"
+  },
+  {
+    "idpais": "138",
+    "code": "158",
+    "name": "ETIOPIA",
+    "nombre2_pais_s": "ETIOPIA",
+    "inicial_pais_s": "ET"
+  },
+  {
+    "idpais": "139",
+    "code": "159",
+    "name": "FIDJI",
+    "nombre2_pais_s": "FIDJI",
+    "inicial_pais_s": "FJ"
+  },
+  {
+    "idpais": "140",
+    "code": "160",
+    "name": "FRANCIA",
+    "nombre2_pais_s": "FRANCIA",
+    "inicial_pais_s": "FR"
+  },
+  {
+    "idpais": "141",
+    "code": "161",
+    "name": "GABON",
+    "nombre2_pais_s": "GABON",
+    "inicial_pais_s": "GA"
+  },
+  {
+    "idpais": "142",
+    "code": "162",
+    "name": "GAMBIA",
+    "nombre2_pais_s": "GAMBIA",
+    "inicial_pais_s": "GM"
+  },
+  {
+    "idpais": "143",
+    "code": "163",
+    "name": "GEORGIA",
+    "nombre2_pais_s": "GEORGIA",
+    "inicial_pais_s": "GE"
+  },
+  {
+    "idpais": "144",
+    "code": "164",
+    "name": "GIBRALTAR",
+    "nombre2_pais_s": "GIBRALTAR",
+    "inicial_pais_s": "GI"
+  },
+  {
+    "idpais": "145",
+    "code": "165",
+    "name": "GRANADA",
+    "nombre2_pais_s": "GRANADA",
+    "inicial_pais_s": "GD"
+  },
+  {
+    "idpais": "146",
+    "code": "166",
+    "name": "GROENLANDIA",
+    "nombre2_pais_s": "GROENLANDIA",
+    "inicial_pais_s": "GL"
+  },
+  {
+    "idpais": "147",
+    "code": "167",
+    "name": "GUINEA",
+    "nombre2_pais_s": "GUINEA",
+    "inicial_pais_s": "GN"
+  },
+  {
+    "idpais": "148",
+    "code": "168",
+    "name": "GUINEA BISSAU",
+    "nombre2_pais_s": "GUINEA BISSAU",
+    "inicial_pais_s": "GW"
+  },
+  {
+    "idpais": "149",
+    "code": "169",
+    "name": "GUINEA ECUATORIAL",
+    "nombre2_pais_s": "GUINEA ECUATORIAL",
+    "inicial_pais_s": "GQ"
+  },
+  {
+    "idpais": "150",
+    "code": "170",
+    "name": "GUYANA",
+    "nombre2_pais_s": "GUYANA",
+    "inicial_pais_s": "GY"
+  },
+  {
+    "idpais": "151",
+    "code": "171",
+    "name": "GUYANA FRANCESA",
+    "nombre2_pais_s": "GUYANA FRANCESA",
+    "inicial_pais_s": "GF"
+  },
+  {
+    "idpais": "152",
+    "code": "172",
+    "name": "HAITI",
+    "nombre2_pais_s": "HAITI",
+    "inicial_pais_s": "HT"
+  },
+  {
+    "idpais": "153",
+    "code": "173",
+    "name": "HONDURAS",
+    "nombre2_pais_s": "HONDURAS",
+    "inicial_pais_s": "HN"
+  },
+  {
+    "idpais": "154",
+    "code": "174",
+    "name": "HONG KONG",
+    "nombre2_pais_s": "HONG KONG",
+    "inicial_pais_s": "HK"
+  },
+  {
+    "idpais": "155",
+    "code": "175",
+    "name": "IRAK",
+    "nombre2_pais_s": "IRAK",
+    "inicial_pais_s": "IQ"
+  },
+  {
+    "idpais": "156",
+    "code": "176",
+    "name": "IRLANDA",
+    "nombre2_pais_s": "IRLANDA",
+    "inicial_pais_s": "IE"
+  },
+  {
+    "idpais": "157",
+    "code": "177",
+    "name": "ISLANDIA",
+    "nombre2_pais_s": "ISLANDIA",
+    "inicial_pais_s": "IS"
+  },
+  {
+    "idpais": "158",
+    "code": "178",
+    "name": "ISLAS CANARIAS",
+    "nombre2_pais_s": "ISLAS CANARIAS",
+    "inicial_pais_s": "XB"
+  },
+  {
+    "idpais": "159",
+    "code": "179",
+    "name": "ISLAS MALVINAS",
+    "nombre2_pais_s": "ISLAS MALVINAS",
+    "inicial_pais_s": "FK"
+  },
+  {
+    "idpais": "160",
+    "code": "180",
+    "name": "ISLAS MARIANAS",
+    "nombre2_pais_s": "ISLAS MARIANAS",
+    "inicial_pais_s": "XO"
+  },
+  {
+    "idpais": "161",
+    "code": "181",
+    "name": "ISLAS MARSHALL",
+    "nombre2_pais_s": "ISLAS MARSHALL",
+    "inicial_pais_s": "MH"
+  },
+  {
+    "idpais": "162",
+    "code": "182",
+    "name": "ISLAS SALOMON",
+    "nombre2_pais_s": "ISLAS SALOMON",
+    "inicial_pais_s": "SB"
+  },
+  {
+    "idpais": "163",
+    "code": "183",
+    "name": "ISLAS VIRGENES (GB)",
+    "nombre2_pais_s": "ISLAS VIRGENES (GB)",
+    "inicial_pais_s": "VG"
+  },
+  {
+    "idpais": "164",
+    "code": "184",
+    "name": "KAZAJSTAN",
+    "nombre2_pais_s": "KAZAJSTAN",
+    "inicial_pais_s": "KZ"
+  },
+  {
+    "idpais": "165",
+    "code": "185",
+    "name": "KIRIBATI",
+    "nombre2_pais_s": "KIRIBATI",
+    "inicial_pais_s": "KI"
+  },
+  {
+    "idpais": "166",
+    "code": "186",
+    "name": "KOSOVO",
+    "nombre2_pais_s": "KOSOVO",
+    "inicial_pais_s": ".."
+  },
+  {
+    "idpais": "167",
+    "code": "187",
+    "name": "KUWAIT",
+    "nombre2_pais_s": "KUWAIT",
+    "inicial_pais_s": "KW"
+  },
+  {
+    "idpais": "168",
+    "code": "188",
+    "name": "LAOS",
+    "nombre2_pais_s": "LAOS",
+    "inicial_pais_s": "LA"
+  },
+  {
+    "idpais": "169",
+    "code": "189",
+    "name": "LESOTHO",
+    "nombre2_pais_s": "LESOTHO",
+    "inicial_pais_s": "LS"
+  },
+  {
+    "idpais": "170",
+    "code": "190",
+    "name": "LETONIA",
+    "nombre2_pais_s": "LETONIA",
+    "inicial_pais_s": "LV"
+  },
+  {
+    "idpais": "171",
+    "code": "191",
+    "name": "LIBERIA",
+    "nombre2_pais_s": "LIBERIA",
+    "inicial_pais_s": "LR"
+  },
+  {
+    "idpais": "172",
+    "code": "192",
+    "name": "LIECHTENSTEIN",
+    "nombre2_pais_s": "LIECHTENSTEIN",
+    "inicial_pais_s": ".."
+  },
+  {
+    "idpais": "173",
+    "code": "193",
+    "name": "LUXEMBURGO",
+    "nombre2_pais_s": "LUXEMBURGO",
+    "inicial_pais_s": "LU"
+  },
+  {
+    "idpais": "174",
+    "code": "194",
+    "name": "MACAO",
+    "nombre2_pais_s": "MACAO",
+    "inicial_pais_s": "MO"
+  },
+  {
+    "idpais": "175",
+    "code": "195",
+    "name": "MACEDONIA",
+    "nombre2_pais_s": "MACEDONIA",
+    "inicial_pais_s": "MK"
+  },
+  {
+    "idpais": "176",
+    "code": "196",
+    "name": "MADAGASCAR",
+    "nombre2_pais_s": "MADAGASCAR",
+    "inicial_pais_s": "MG"
+  },
+  {
+    "idpais": "177",
+    "code": "197",
+    "name": "MALDIVAS(ISLAS)",
+    "nombre2_pais_s": "MALDIVAS(ISLAS)",
+    "inicial_pais_s": "MV"
+  },
+  {
+    "idpais": "178",
+    "code": "198",
+    "name": "MALTA",
+    "nombre2_pais_s": "MALTA",
+    "inicial_pais_s": "MT"
+  },
+  {
+    "idpais": "179",
+    "code": "199",
+    "name": "MAURICIO",
+    "nombre2_pais_s": "MAURICIO",
+    "inicial_pais_s": "MU"
+  },
+  {
+    "idpais": "180",
+    "code": "200",
+    "name": "MAURITANIA",
+    "nombre2_pais_s": "MAURITANIA",
+    "inicial_pais_s": "MR"
+  },
+  {
+    "idpais": "181",
+    "code": "201",
+    "name": "MAYOTTE",
+    "nombre2_pais_s": "MAYOTTE",
+    "inicial_pais_s": "XD"
+  },
+  {
+    "idpais": "182",
+    "code": "202",
+    "name": "MICRONESIA",
+    "nombre2_pais_s": "MICRONESIA",
+    "inicial_pais_s": "FM"
+  },
+  {
+    "idpais": "183",
+    "code": "203",
+    "name": "MOLDAVIA",
+    "nombre2_pais_s": "MOLDAVIA",
+    "inicial_pais_s": "MD"
+  },
+  {
+    "idpais": "184",
+    "code": "204",
+    "name": "MONGOLIA",
+    "nombre2_pais_s": "MONGOLIA",
+    "inicial_pais_s": "MN"
+  },
+  {
+    "idpais": "185",
+    "code": "205",
+    "name": "MONTENEGRO",
+    "nombre2_pais_s": "MONTENEGRO",
+    "inicial_pais_s": "CS"
+  },
+  {
+    "idpais": "186",
+    "code": "206",
+    "name": "MONTSERRAT",
+    "nombre2_pais_s": "MONTSERRAT",
+    "inicial_pais_s": ".."
+  },
+  {
+    "idpais": "187",
+    "code": "207",
+    "name": "MYANMAR",
+    "nombre2_pais_s": "MYANMAR",
+    "inicial_pais_s": "BU"
+  },
+  {
+    "idpais": "188",
+    "code": "208",
+    "name": "NAMIBIA",
+    "nombre2_pais_s": "NAMIBIA",
+    "inicial_pais_s": "NA"
+  },
+  {
+    "idpais": "189",
+    "code": "209",
+    "name": "NEPAL",
+    "nombre2_pais_s": "NEPAL",
+    "inicial_pais_s": "NP"
+  },
+  {
+    "idpais": "190",
+    "code": "210",
+    "name": "NICARAGUA",
+    "nombre2_pais_s": "NICARAGUA",
+    "inicial_pais_s": "NI"
+  },
+  {
+    "idpais": "191",
+    "code": "211",
+    "name": "NUEVA CALEDONIA",
+    "nombre2_pais_s": "NUEVA CALEDONIA",
+    "inicial_pais_s": "NC"
+  },
+  {
+    "idpais": "192",
+    "code": "212",
+    "name": "OCEANIA AMERICANA",
+    "nombre2_pais_s": "OCEANIA AMERICANA",
+    "inicial_pais_s": "XF"
+  },
+  {
+    "idpais": "193",
+    "code": "213",
+    "name": "OCEANIA NEOZELANDESA",
+    "nombre2_pais_s": "OCEANIA NEOZELANDESA",
+    "inicial_pais_s": "XG"
+  },
+  {
+    "idpais": "194",
+    "code": "214",
+    "name": "OMAN",
+    "nombre2_pais_s": "OMAN",
+    "inicial_pais_s": "OM"
+  },
+  {
+    "idpais": "195",
+    "code": "215",
+    "name": "PALAU",
+    "nombre2_pais_s": "PALAU",
+    "inicial_pais_s": ".."
+  },
+  {
+    "idpais": "196",
+    "code": "216",
+    "name": "PALESTINA",
+    "nombre2_pais_s": "PALESTINA",
+    "inicial_pais_s": "PS"
+  },
+  {
+    "idpais": "197",
+    "code": "217",
+    "name": "PAPUA NUEVA GUINEA",
+    "nombre2_pais_s": "PAPUA NUEVA GUINEA",
+    "inicial_pais_s": "PG"
+  },
+  {
+    "idpais": "198",
+    "code": "218",
+    "name": "POLINESIA FRANCESA",
+    "nombre2_pais_s": "POLINESIA FRANCESA",
+    "inicial_pais_s": "PF"
+  },
+  {
+    "idpais": "199",
+    "code": "219",
+    "name": "QATAR",
+    "nombre2_pais_s": "QATAR",
+    "inicial_pais_s": "QA"
+  },
+  {
+    "idpais": "200",
+    "code": "220",
+    "name": "REP. CENTROAFRICANA",
+    "nombre2_pais_s": "REP. CENTROAFRICANA",
+    "inicial_pais_s": "CF"
+  },
+  {
+    "idpais": "201",
+    "code": "221",
+    "name": "REPUBLICA CHECA",
+    "nombre2_pais_s": "REPUBLICA CHECA",
+    "inicial_pais_s": "CZ"
+  },
+  {
+    "idpais": "202",
+    "code": "222",
+    "name": "REUNION",
+    "nombre2_pais_s": "REUNION",
+    "inicial_pais_s": "RE"
+  },
+  {
+    "idpais": "203",
+    "code": "223",
+    "name": "RUANDA",
+    "nombre2_pais_s": "RUANDA",
+    "inicial_pais_s": "RW"
+  },
+  {
+    "idpais": "204",
+    "code": "224",
+    "name": "SAMOA OCCIDENTAL",
+    "nombre2_pais_s": "SAMOA OCCIDENTAL",
+    "inicial_pais_s": "WS"
+  },
+  {
+    "idpais": "205",
+    "code": "225",
+    "name": "SAN CRISTOBAL",
+    "nombre2_pais_s": "SAN CRISTOBAL",
+    "inicial_pais_s": "KN"
+  },
+  {
+    "idpais": "206",
+    "code": "226",
+    "name": "SAN PEDRO Y MIQUELON",
+    "nombre2_pais_s": "SAN PEDRO Y MIQUELON",
+    "inicial_pais_s": "PM"
+  },
+  {
+    "idpais": "207",
+    "code": "227",
+    "name": "SAN VICENTE",
+    "nombre2_pais_s": "SAN VICENTE",
+    "inicial_pais_s": "VC"
+  },
+  {
+    "idpais": "208",
+    "code": "228",
+    "name": "SERBIA",
+    "nombre2_pais_s": "SERBIA",
+    "inicial_pais_s": "YS"
+  },
+  {
+    "idpais": "209",
+    "code": "229",
+    "name": "SEYCHELLES",
+    "nombre2_pais_s": "SEYCHELLES",
+    "inicial_pais_s": "SC"
+  },
+  {
+    "idpais": "210",
+    "code": "230",
+    "name": "SIERRA LEONA",
+    "nombre2_pais_s": "SIERRA LEONA",
+    "inicial_pais_s": "SL"
+  },
+  {
+    "idpais": "211",
+    "code": "231",
+    "name": "SOMALIA",
+    "nombre2_pais_s": "SOMALIA",
+    "inicial_pais_s": "SO"
+  },
+  {
+    "idpais": "212",
+    "code": "232",
+    "name": "SUDAN",
+    "nombre2_pais_s": "SUDAN",
+    "inicial_pais_s": "SD"
+  },
+  {
+    "idpais": "213",
+    "code": "233",
+    "name": "SURINAN",
+    "nombre2_pais_s": "SURINAN",
+    "inicial_pais_s": "SR"
+  },
+  {
+    "idpais": "214",
+    "code": "234",
+    "name": "SVALBARD",
+    "nombre2_pais_s": "SVALBARD",
+    "inicial_pais_s": ".."
+  },
+  {
+    "idpais": "215",
+    "code": "235",
+    "name": "SWAZILANDIA",
+    "nombre2_pais_s": "SWAZILANDIA",
+    "inicial_pais_s": "SZ"
+  },
+  {
+    "idpais": "216",
+    "code": "236",
+    "name": "TAHITI",
+    "nombre2_pais_s": "TAHITI",
+    "inicial_pais_s": "TA"
+  },
+  {
+    "idpais": "217",
+    "code": "237",
+    "name": "TAJIKISTAN",
+    "nombre2_pais_s": "TAJIKISTAN",
+    "inicial_pais_s": "TJ"
+  },
+  {
+    "idpais": "218",
+    "code": "238",
+    "name": "TERR.BRIT.OC. INDICO",
+    "nombre2_pais_s": "TERR.BRIT.OC. INDICO",
+    "inicial_pais_s": "IO"
+  },
+  {
+    "idpais": "219",
+    "code": "239",
+    "name": "TOGO",
+    "nombre2_pais_s": "TOGO",
+    "inicial_pais_s": "TG"
+  },
+  {
+    "idpais": "220",
+    "code": "240",
+    "name": "TONGA",
+    "nombre2_pais_s": "TONGA",
+    "inicial_pais_s": "TO"
+  },
+  {
+    "idpais": "221",
+    "code": "241",
+    "name": "TURKMENISTAN",
+    "nombre2_pais_s": "TURKMENISTAN",
+    "inicial_pais_s": "TM"
+  },
+  {
+    "idpais": "222",
+    "code": "242",
+    "name": "TUVALU",
+    "nombre2_pais_s": "TUVALU",
+    "inicial_pais_s": "TV"
+  },
+  {
+    "idpais": "223",
+    "code": "243",
+    "name": "UGANDA",
+    "nombre2_pais_s": "UGANDA",
+    "inicial_pais_s": "UG"
+  },
+  {
+    "idpais": "224",
+    "code": "244",
+    "name": "UZBEKISTAN",
+    "nombre2_pais_s": "UZBEKISTAN",
+    "inicial_pais_s": "UZ"
+  }
+]
