@@ -32,29 +32,29 @@
 	    <div class="row mt-3">
     		<div class="col-md-4">	
 	            <div class="card" style="width: 18rem;">
-	              <img class="card-img-top" src="<?=base_url()?>public/images/staff/hugo_gaona.jpeg" alt="Hugo Gaona">
+	              <!-- <img class="card-img-top" src="<?=base_url()?>public/images/staff/hugo_gaona.jpeg" alt="Hugo Gaona"> -->
 	              <div class="card-body">
 	                <h5 class="card-title">Hugo Gaona</h5>
                 
-									<p>
-										<a href="https://api.whatsapp.com/send?phone=595982145850&text=Hola%21%20Estoy%20escribiendo%20desde%20la%20Web%20de%20HgSoccer" style="margin-bottom: 10px;">
-											<i class="fa fa-whatsapp fa-social"></i>
-											<span style="color:#000; margin-left:">+595982145850</span>
-										</a>
-									</p>
-									<p>
-										<a href="mailto:hg@hgsoccerpy.com">
-											<i class="fa fa-envelope-square fa-social" style="font-size: 2em"></i> 
-											<span style="color:#000">hg@hgsoccerpy.com</span>
-										</a>	
-									</p>
+						<p>
+							<a href="https://api.whatsapp.com/send?phone=595982145850&text=Hola%21%20Estoy%20escribiendo%20desde%20la%20Web%20de%20HgSoccer" style="margin-bottom: 10px;">
+								<i class="fa fa-whatsapp fa-social"></i>
+								<span style="color:#000; margin-left:">+595982145850</span>
+							</a>
+						</p>
+						<p>
+							<a href="mailto:hg@hgsoccerpy.com">
+								<i class="fa fa-envelope-square fa-social" style="font-size: 2em"></i> 
+								<span style="color:#000">hg@hgsoccerpy.com</span>
+							</a>	
+						</p>
 
 	              </div>
 	            </div>
     		</div>
     		<div class="col-md-4">	
 	            <div class="card" style="width: 18rem;">
-	              <img class="card-img-top" src="<?=base_url()?>public/images/staff/jorge_vera.jpeg" alt="Jorge Vera">
+	              <!-- <img class="card-img-top" src="<?=base_url()?>public/images/staff/jorge_vera.jpeg" alt="Jorge Vera"> -->
 	              <div class="card-body">
 	                <h5 class="card-title">Jorge Vera</h5>
 	                <p>
@@ -74,7 +74,7 @@
     		</div>
     		<div class="col-md-4">	
 	            <div class="card" style="width: 18rem;">
-	              <img class="card-img-top" src="<?=base_url()?>public/images/staff/jimmy_ayala.jpeg" alt="Jimmy Ayala">
+	              <!-- <img class="card-img-top" src="<?=base_url()?>public/images/staff/jimmy_ayala.jpeg" alt="Jimmy Ayala"> -->
 	              <div class="card-body">
 	                <h5 class="card-title">Jimmy Ayala</h5>
 	                <p>
