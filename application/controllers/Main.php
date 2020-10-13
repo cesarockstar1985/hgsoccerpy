@@ -39,6 +39,7 @@ class Main extends CI_Controller {
 		$extensionBanner   = $rawJugadores['extensionBanner'];
 		$image_url  	   = $rawJugadores['image_url'];
 
+		$data['url']       = 'https://www.hgsoccerpy.com/';
 		$data['titulo']    = "Goleros";
 		$data['pagina']    = "inicio";
 
@@ -46,7 +47,7 @@ class Main extends CI_Controller {
 		$data['extensionBanner'] 	= $extensionBanner;
 		$data['image_url'] 	        = $image_url;
 
-		$this->load->view('header');
+		$this->load->view('header', $data);
 		$this->load->view('index', $data);
 		$this->load->view('footer');
 
@@ -119,7 +120,9 @@ class Main extends CI_Controller {
 
 		$data['jugadores'] =  $playerData;
 
-		$this->load->view('header');
+		$data['url']       = 'https://www.hgsoccerpy.com/';
+
+		$this->load->view('header', $data);
 		$this->load->view('scrapedData', $data);
 		$this->load->view('footer');
 
@@ -227,7 +230,9 @@ class Main extends CI_Controller {
 
 		$data['jugadores'] = $jugadores;
 
-		$this->load->view('header');
+		$data['url']       = 'https://www.hgsoccerpy.com/';
+
+		$this->load->view('header',$data);
 		$this->load->view('jugadores', $data);
 		$this->load->view('footer');
 
@@ -247,7 +252,9 @@ class Main extends CI_Controller {
 
 		$datos = ["jugadores" => $getJugador, "pagina" => "jugadores"];
 
-		$this->load->view('header');
+		$datos['url']       = 'https://www.hgsoccerpy.com/';
+
+		$this->load->view('header', $datos);
 		$this->load->view('carrera', $datos);
 		$this->load->view('footer');
 
@@ -286,7 +293,9 @@ class Main extends CI_Controller {
 
 		$data['pagina'] = "nosotros";		
 
-		$this->load->view('header');
+		$data['url']       = 'https://www.hgsoccerpy.com/';
+
+		$this->load->view('header', $data);
 		$this->load->view('empresa', $data);
 		$this->load->view('footer');
 
@@ -296,7 +305,9 @@ class Main extends CI_Controller {
 
 		$data['pagina'] = "contacto";		
 
-		$this->load->view('header');
+		$data['url']       = 'https://www.hgsoccerpy.com/';
+
+		$this->load->view('header', $data);
 		$this->load->view('contacto', $data);
 		$this->load->view('footer');
 
@@ -357,6 +368,8 @@ class Main extends CI_Controller {
 
 	public function changeExtensionBrowser($jugadores){
 
+		$url = 'https://www.hgsoccerpy.com';
+
 		if (isset($_SERVER['HTTP_USER_AGENT'])) {
 			$user_agent = $_SERVER['HTTP_USER_AGENT']; 	
 		}else{
@@ -395,13 +408,13 @@ class Main extends CI_Controller {
 
 			}elseif(stripos($user_agent, "Chrome") || stripos($user_agent, "Opera") || stripos($user_agent, "Firefox")){
 
-				$image_url 	 	 = base_url()."public/images_webp/";
+				$image_url 	 	 = $url."/public/images_webp/";
 				$extension 		 = ".webp";
 				$extensionBanner = ".webp";
 				
 			}else{
 
-				$image_url       = base_url()."public/images/";
+				$image_url       = $url."/public/images/";
 				$extension       = ".jpeg";
 				$extensionBanner = ".jpg";
 

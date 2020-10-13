@@ -8,14 +8,14 @@
 	<meta charset="utf-8">
 	<title>HG Soccer</title>
 
-	<link rel="stylesheet" href="<?=base_url()?>public/css/bootstrap.min.css">
-	<link rel="stylesheet" href="<?=base_url()?>public/css/album.css">
-	<link rel="stylesheet" href="<?=base_url()?>public/css/dashboard.css">
-	<link rel="stylesheet" href="<?=base_url()?>public/flags/flag.min.css">
-	<!-- <link rel="stylesheet" href="<?=base_url()?>public/fontawesome/css/fontawesome.css"> -->
+	<link rel="stylesheet" href="<?=$url?>public/css/bootstrap.min.css">
+	<link rel="stylesheet" href="<?=$url?>public/css/album.css">
+	<link rel="stylesheet" href="<?=$url?>public/css/dashboard.css">
+	<link rel="stylesheet" href="<?=$url?>public/flags/flag.min.css">
+	<!-- <link rel="stylesheet" href="<?=$url?>public/fontawesome/css/fontawesome.css"> -->
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-	<link rel="icon" href="<?=base_url()?>favicon.ico" type="image/x-icon">
-	<link rel="shortcut icon" href="<?=base_url()?>favicon.ico" type="image/x-icon">
+	<link rel="icon" href="<?=$url?>favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="<?=$url?>favicon.ico" type="image/x-icon">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
@@ -24,7 +24,7 @@
 		<!-- MAIN NAVBAR -->
 		<nav class="navbar navbar-expand-lg navbar-dark bg-dark-custom">
 		  <a class="navbar-brand" href="<?=base_url()?>">
-		  	<img src="<?=base_url()?>public/images/logo-small.jpg" alt="HgSoccer" style="height: 100px;">
+		  	<img src="<?=$url?>public/images/logo-small.jpg" alt="HgSoccer" style="height: 100px;">
 		  </a>
 		  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 		    <span class="navbar-toggler-icon"></span>

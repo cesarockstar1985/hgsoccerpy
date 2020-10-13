@@ -5,7 +5,7 @@
 		  <div class="carousel-inner">
 		    <div class="carousel-item active">
 		    	<div class="col-md-12 text-center slider-text">
-		    		<img src="<?=base_url()?>public/images/logo.jpg" class="logo" alt="HgSoccer">
+		    		<img src="<?=$url?>public/images/logo.jpg" class="logo" alt="HgSoccer">
 		    		<h1>Management y Marketing Deportivo</h1>
 		    	</div>
 		      <img class="d-block w-100 same-height" src="<?=$image_url?>jumbo<?=$extensionBanner?>" alt="Third slide">
@@ -129,7 +129,7 @@
 
 			        <div class="col-md-3">
 			          <div class="card mb-4 box-shadow">
-			          	<a class="linkJugador" href="<?=base_url()?>main/carrera/<?=$value->id?>" type="button" class="btn btn-sm btn-outline-secondary">
+			          	<a class="linkJugador" href="<?=$url?>main/carrera/<?=$value->id?>" type="button" class="btn btn-sm btn-outline-secondary">
 			            	<img class="card-img-top" src="<?=$value->imagen?>" alt="<?=$value->nombres?> <?=$value->apellidos?>">
 			          	</a>
 			            <div class="card-body">
@@ -142,7 +142,7 @@
 			              </p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
-			                  <a href="<?=base_url()?>main/carrera/<?=$value->id?>" type="button" class="btn btn-sm btn-outline-secondary">Ver Más</a>
+			                  <a href="<?=$url?>main/carrera/<?=$value->id?>" type="button" class="btn btn-sm btn-outline-secondary">Ver Más</a>
 			                </div>
 			                <!-- <small class="text-muted">9 mins</small> -->
 			              </div>

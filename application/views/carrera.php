@@ -101,7 +101,7 @@
 			</table>
 		</div>
 		<div class="col-md-6 mt-md-5 mb-4" id="containerImageJugador">
-			<img class="imageJugador" src="<?=base_url()?>public/images/<?=$jugador->imagen?>" alt="<?=$jugador->nombres?> <?=$jugador->apellidos?>">
+			<img class="imageJugador" src="<?=$url?>public/images/<?=$jugador->imagen?>" alt="<?=$jugador->nombres?> <?=$jugador->apellidos?>">
 		</div>
 	</div>
 	<h1>Trayectoria</h1>

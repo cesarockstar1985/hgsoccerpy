@@ -17,7 +17,7 @@ $(document).ready(function(){
 		let string = $(this).data('string');
 
 		$.ajax({
-			url: baseUrl+"main/getJugadores",
+			url: "https://www.hgsoccerpy.com/main/getJugadores",
 			dataType: "json",
 			type: "post",
 			data: {string: string},
